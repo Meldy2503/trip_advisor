@@ -1,9 +1,7 @@
-
-
 function App() {
   return (
     <div className="App">
-     <h6> trip advisor</h6>
+      <h1> Trip Advisor Project</h1>
     </div>
   );
 }
